@@ -1,0 +1,12 @@
+public class ShowRuntimeErrors {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		System.out.println(1/0);
+		//0 bu neng zuo chu shu
+	}
+
+}
+
+Exception in thread "main" java.lang.ArithmeticException: / by zero
+	at zoubo.ShowRuntimeErrors.main(ShowRuntimeErrors.java:7)
