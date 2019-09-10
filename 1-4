@@ -1,0 +1,10 @@
+public class ShowSyntaxErroors {
+
+	public static  main(String[] args) {
+		// TODO Auto-generated method stub
+		System.out.println("Welcome to java);
+	}
+
+}
+//第二行 main方法前遗漏关键字void
+//第三行的字符串Welcome  to  java应该加上引号
